@@ -1,0 +1,39 @@
+body {
+    background: ;
+    background-image: url(https://img.freepik.com/vetores-gratis/projeto-de-fundo-escuro-abstrato-de-meio-tom_1017-15505.jpg?size=338&ext=jpg);
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+ }
+  
+  .menu {
+    background-color: white; 
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: ;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color: white;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
